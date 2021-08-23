@@ -40,3 +40,4 @@ export * from './modules/TreeView'
 export * from './modules/Ruler'
 console.log('test11111')
 console.log('master1111111')
+console.log('test2222222')
